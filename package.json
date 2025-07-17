@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react by harshita",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshita-t22/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Harshita Tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshita-t22/React/issues"
+  },
+  "homepage": "https://github.com/harshita-t22/React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
